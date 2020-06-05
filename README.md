@@ -1,3 +1,4 @@
 # Data Science
-1. Data Cleaning and Visualization
-2. Car price prediction
+1. Pandas Basis
+2. Data Cleaning and Visualization
+3. Car price prediction - Project
